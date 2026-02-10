@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <h1 align="center">Hi 👋, I'm Nikhil Thakur</h1>
-<h3 align="center">🚀 Developer | 💻 C++ | 🌱 Learning AI & Web Dev</h3>
+<h3 align="center">🚀 Developer | 💻 C++ | 🌱 Learning DSA & Web Dev</h3>
 
 <!-- Badges -->
 <p align="center">
@@ -13,11 +13,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Smart Reminder System & Web Projects**  
-- 🌱 I’m learning **C++, Python, AI, and Full Stack Development**  
+- 🔭 I’m currently working on **Twitter Like Project**  
+- 🌱 I’m learning **C++, Full Stack Development**  
 - 💬 Ask me about **DSA, Web Development, and Projects**  
 - 📫 How to reach me: **thakur.nikhil200706@gmail.com**  
-- ⚡ Fun fact: *I am more famous on X then instagram*  
+- ⚡ Fun fact: *I am more famous on X and instagram*  
 
 ---
 
