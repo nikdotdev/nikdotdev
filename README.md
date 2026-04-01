@@ -1,48 +1,148 @@
-<!-- Banner / Header -->
-<h1 align="center">Hi 👋, I'm Nikhil Thakur</h1>
-<h3 align="center">🚀 Developer | 💻 C++ | 🌱 Learning DSA & Web Dev</h3>
+<div align="center">
 
-<!-- Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikdotdev&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-  <a href="https://github.com/nikdotdev?tab=followers">
-    <img src="https://img.shields.io/github/followers/nikdotdev?label=Followers&style=social" alt="followers" />
-  </a>
+<!-- Animated Wave Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nikhil%20Thakur&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=20&animation=fadeIn" />
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Nikhil+%F0%9F%91%8B;C%2B%2B+%7C+DSA+%7C+Full+Stack+Dev;Building+a+Twitter-like+App+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Cool+Stuff!" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views + Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=nikdotdev&label=Profile+Views&color=a855f7&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/nikdotdev?label=Followers&style=for-the-badge&color=a855f7&labelColor=1a1a2e" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-a855f7?style=for-the-badge&labelColor=1a1a2e" />
 </p>
 
----
-
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **Twitter Like Project**  
-- 🌱 I’m learning **C++, Full Stack Development**  
-- 💬 Ask me about **DSA, Web Development, and Projects**  
-- 📫 How to reach me: **thakur.nikhil200706@gmail.com**  
-- ⚡ Fun fact: *I am more famous on X and instagram*  
+</div>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=nodejs&logoColor=white" />
+## 🧠 About Me
+
+```typescript
+const nikhil = {
+  name        : "Nikhil Thakur",
+  username    : "nikdotdev",
+  location    : "India 🇮🇳",
+  currentWork : "Twitter-like App 🐦",
+  learning    : ["C++", "DSA", "Full Stack Development"],
+  askMeAbout  : ["DSA", "Web Dev", "Projects", "C++"],
+  funFact     : "More famous on X & Instagram than GitHub 😄",
+  email       : "thakur.nikhil200706@gmail.com",
+  lifePhil    : "Code. Build. Repeat. 🔁"
+};
+```
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
+</p>
+
+### ⚙️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="48" title="FastAPI" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,replit&theme=dark" />
+</p>
+
+### 🤖 AI Companions
+<p>
+  <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/claude-color.png" width="40" title="Claude" />
+  <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/openai.png" width="40" title="ChatGPT" />
+  <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/gemini-color.png" width="40" title="Gemini" />
+  <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/githubcopilot.png" width="40" title="GitHub Copilot" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikdotdev&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=nikdotdev&theme=tokyonight" alt="streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikdotdev&layout=compact&theme=tokyonight" alt="langs" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nikdotdev&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&border_color=a855f7&bg_color=0d1117" width="48%" alt="stats"/>
+<img src="https://streak-stats.demolab.com?user=nikdotdev&theme=tokyonight&border_radius=15&border=a855f7&background=0D1117" width="48%" alt="streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikdotdev&layout=compact&theme=tokyonight&border_radius=15&border_color=a855f7&bg_color=0d1117" width="40%" alt="langs"/>
+
+</div>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikdotdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikdotdev&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=a855f7&radius=15" width="95%" alt="activity graph"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikdotdev/nikdotdev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikdotdev/nikdotdev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nikdotdev/nikdotdev/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> ⚙️ To enable the snake animation, add a GitHub Action to your profile repo. Check [this guide](https://github.com/Platane/snk) to set it up!
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-thakur.nikhil200706%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:thakur.nikhil200706@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nikdotdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/nikdotdev)
+[![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e)](https://x.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://instagram.com)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote" />
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+**⭐ Drop a star on any repo you find interesting — it means a lot! 🙏**
+
+</div>
