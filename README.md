@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=nodejs&logoColor=white" />
 </p>
 
 ---
