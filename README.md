@@ -43,7 +43,7 @@ const nikhil = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
 </p>
 
 ### 🎨 Frontend
@@ -54,7 +54,6 @@ const nikhil = {
 ### ⚙️ Backend & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" width="48" title="FastAPI" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -87,13 +86,6 @@ const nikhil = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikdotdev&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
-</div>
-
----
 
 ## 📈 Activity Graph
 
@@ -101,21 +93,6 @@ const nikhil = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikdotdev&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=a855f7&radius=15" width="95%" alt="activity graph"/>
 </div>
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikdotdev/nikdotdev/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikdotdev/nikdotdev/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/nikdotdev/nikdotdev/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> ⚙️ To enable the snake animation, add a GitHub Action to your profile repo. Check [this guide](https://github.com/Platane/snk) to set it up!
-
----
 
 ## 🌐 Connect With Me
 
@@ -123,20 +100,9 @@ const nikhil = {
 
 [![Email](https://img.shields.io/badge/Gmail-thakur.nikhil200706%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:thakur.nikhil200706@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nikdotdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/nikdotdev)
-[![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1a1a2e)](https://x.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e)](https://instagram.com)
 
 </div>
 
----
-
-## 💭 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Quote" />
-</div>
-
----
 
 <div align="center">
 
