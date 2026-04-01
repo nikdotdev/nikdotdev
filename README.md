@@ -74,13 +74,8 @@ const nikhil = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikdotdev&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&border_color=a855f7&bg_color=0d1117" width="48%" alt="stats"/>
 <img src="https://streak-stats.demolab.com?user=nikdotdev&theme=tokyonight&border_radius=15&border=a855f7&background=0D1117" width="48%" alt="streak"/>
-
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikdotdev&layout=compact&theme=tokyonight&border_radius=15&border_color=a855f7&bg_color=0d1117" width="40%" alt="langs"/>
 
 </div>
 
