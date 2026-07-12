@@ -28,7 +28,7 @@ const nikhil = {
   name        : "Nikhil Thakur",
   username    : "nikdotdev",
   location    : "India 🇮🇳",
-  currentWork : "Learning Genai & Agentic Stuffs",
+  currently : "Learning Genai & Agentic Stuffs",
   askMeAbout  : ["DSA", "Web Dev", "Projects", "C++"],
   funFact     : "More famous on X & Instagram than GitHub",
   email       : "thakur.nikhil200706@gmail.com"
