@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```typescript
 const nikhil = {
@@ -37,29 +37,30 @@ const nikhil = {
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" />
 </p>
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,replit&theme=dark" />
 </p>
 
-### 🤖 AI Companions
+### AI Companions
 <p>
   <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/claude-color.png" width="40" title="Claude" />
   <img src="https://raw.githubusercontent.com/MONSTERBOY110/MONSTERBOY110/main/icons/openai.png" width="40" title="ChatGPT" />
@@ -69,7 +70,7 @@ const nikhil = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=nikdotdev&theme=tokyonight&border_radius=15&border=a855f7&background=0D1117" width="48%" alt="streak"/>
@@ -80,14 +81,14 @@ const nikhil = {
 ---
 
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikdotdev&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=false&border_color=a855f7&radius=15" width="95%" alt="activity graph"/>
 </div>
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
