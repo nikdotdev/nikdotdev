@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Nikhil+%F0%9F%91%8B;C%2B%2B+%7C+DSA+%7C+Full+Stack+Dev;Building+a+Twitter-like+App+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Cool+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Nikhil+%F0%9F%91%8B;C%2B%2B+%7C+DSA+%7C+Full+Stack+Dev;Learning+Agents+and+Genai+%F0%9F%9A%80;Open+to+Collaborate+%26+Build+Cool+Stuff!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -103,6 +103,6 @@ const nikhil = {
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-**⭐ Drop a star on any repo you find interesting — it means a lot! 🙏**
+**⭐ Drop a star on any repo you find interesting — it means a lot!**
 
 </div>
